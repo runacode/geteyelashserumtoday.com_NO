@@ -7,6 +7,7 @@
   "upsell1ID": 32,
   "upsell2ID": 31,
   "upsell3ID": 33,
+  "IsNoStateCheckOut": true,
   "products": [
     {
       "cid": 29,
