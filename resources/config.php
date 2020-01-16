@@ -274,7 +274,7 @@ KFormConfig::$campaignData = '{
             "description": "*No description available",
             "imagePath": "https:\/\/www.geteyelashserumtoday.com\/resources\/images\/smain-small.jpg",
             "imageId": 1,
-            "price": "11.97",
+            "price": "119.97",
             "shipPrice": "0.00",
             "category": "FEG"
         },
@@ -296,7 +296,7 @@ KFormConfig::$campaignData = '{
             "description": "*No description available",
             "imagePath": "https:\/\/www.geteyelashserumtoday.com\/resources\/images\/upsell1.jpg",
             "imageId": 1,
-            "price": "4.95",
+            "price": "45.95",
             "shipPrice": "0.00",
             "category": "FEG"
         },
@@ -306,7 +306,7 @@ KFormConfig::$campaignData = '{
             "description": "*No description available",
             "imagePath": "https:\/\/www.geteyelashserumtoday.com\/resources\/images\/upsell2.jpg",
             "imageId": 2,
-            "price": "9.95",
+            "price": "89.95",
             "shipPrice": "0.00",
             "category": "FEG"
         },
@@ -316,7 +316,7 @@ KFormConfig::$campaignData = '{
             "description": "*No description available",
             "imagePath": "https:\/\/www.geteyelashserumtoday.com\/resources\/images\/upsell3.jpg",
             "imageId": 3,
-            "price": "4.95",
+            "price": "45.95",
             "shipPrice": "0.00",
             "category": "FEG"
         }
